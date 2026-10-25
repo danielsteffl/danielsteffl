@@ -1,3 +1,6 @@
+</p><img width="1572" height="586" alt="banner" src="https://github.com/user-attachments/assets/4c560ec4-f5ea-4b00-939e-c62ac182d567" />
+
+
 ### 🎓 **IT Student & Visual Designer**
 
 Snažím se propojit IT s přijatelným a hezkým grafickým designem, a to například ve webových aplikacích.
