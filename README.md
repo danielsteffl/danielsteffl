@@ -9,7 +9,8 @@ Snažím se propojit IT s přijatelným a hezkým grafickým designem, a to nap�
 
 ### 🚀 Na čem aktuálně pracuji?
 
-* **Personal Portfolio:** Aktuálně vyvíjím své osobní portfolio pomocí `HTML5`, `CSS` a `JavaScriptu`.
+* **ParcelPilot:** Moměntálně se snažím rozšiřovat svůj webový projekt logistické a doručovací služby ParcelPilot, při čemž se chci naučit i nové věci a posunout se dál.
+* **Personal Portfolio:** Aktuálně vyvíjím své osobní portfolio pomocí `HTML`, `CSS` a `JavaScriptu`.
 * **Studium:** Dále si zlepšuji postupně znalosti v IT a moderních webových technologiích - počítačových sítích.
 * **Grafický design:** Věnuji se UI/UX designu, tvorbě vektorové grafiky, a snažím se zlepšovat.
 
