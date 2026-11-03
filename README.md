@@ -3,7 +3,7 @@
 
 ## 🎓 **IT Student & Graphic Designer**
 
-Snažím se propojit IT s přijatelným a hezkým grafickým designem, a to například ve webových aplikacích.
+Snažím se propojit IT s mou kreativitou a mými schopnostmi v grafickém designu, a to například ve webových aplikacích.
 
 ---
 
