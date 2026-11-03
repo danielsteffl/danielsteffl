@@ -1,13 +1,13 @@
 </p><img width="1572" height="586" alt="banner" src="https://github.com/user-attachments/assets/4c560ec4-f5ea-4b00-939e-c62ac182d567" />
 
 
-### 🎓 **IT Student & Graphic Designer**
+## 🎓 **IT Student & Graphic Designer**
 
 Snažím se propojit IT s přijatelným a hezkým grafickým designem, a to například ve webových aplikacích.
 
 ---
 
-### 🚀 Na čem aktuálně pracuji?
+## 🚀 Na čem aktuálně pracuji?
 
 * **ParcelPilot:** Moměntálně se snažím rozšiřovat svůj webový projekt logistické a doručovací služby ParcelPilot, při čemž se chci naučit i nové věci a posunout se dál.
 * **Personal Portfolio:** Aktuálně vyvíjím své osobní portfolio pomocí `HTML`, `CSS` a `JavaScriptu`.
@@ -16,7 +16,7 @@ Snažím se propojit IT s přijatelným a hezkým grafickým designem, a to nap�
 
 ---
 
-### 🛠️ Technologie & Nástroje
+## 🛠️ Technologie & Nástroje
 
 **Development:**
 * HTML
